@@ -2,15 +2,15 @@
 
 Thank you for your interest in contributing to my project! 
 
-I value a positive and respectful community, and I kindly ask that you follow our code of conduct in all interactions with other members. Please take a moment to review our [Code of Conduct](./CODE_OF_CONDUCT.md) and help me maintain a welcoming environment for all contributors.
+We value a positive and respectful community, and We kindly ask that you follow our code of conduct in all interactions with other members. Please take a moment to review our [Code of Conduct](./CODE_OF_CONDUCT.md) and help me maintain a welcoming environment for all contributors.
 
-To ensure that your contributions are noticed and properly addressed, I recommend following the guidelines below. These guidelines can also help you find and work on issues more efficiently.
+To ensure that your contributions are noticed and properly addressed, We recommend following the guidelines below. These guidelines can also help you find and work on issues more efficiently.
 
 Thank you for taking the time to read and follow these instructions.
 
 ## How to contribute
 
-If you find one of my projects interesting and would like to contribute by solving an issue, here are the steps you can take:
+If you find one of our projects interesting and would like to contribute by solving an issue, here are the steps you can take:
 
 1. Fork the repository.
 2. Create a new branch for your changes. 
@@ -37,8 +37,9 @@ Please make sure that your code is well-documented and easy to understand. Speci
 
 ## Questions and support
 
-If you have any questions or need support regarding the community guidelines, please [open an issue](https://github.com/Bluejee/Community_Guidelines/issues) and I will do my best to help you.
+If you have any questions or need support regarding the community guidelines, please [open an issue](https://github.com/TheDoubtFactory/Community_Guidelines/issues) and We will do our best to help you.
 
 ## Attribution
 
-I am grateful to all contributors who have helped me through all of my projects. Thank you for your contributions!
+We are grateful to all contributors who have helped us through all of our projects. Thank you for your contributions!
+
